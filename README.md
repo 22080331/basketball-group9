@@ -9,5 +9,3 @@ GROUP 9 -BASKETBALL DATA
 -Normal distribution: The chart shows a nearly normal (bell-shaped) height distribution of NBA players. This means that the majority of players have heights concentrated around an average value, and the number of players will gradually decrease as the height deviates further from this average value.
 -Mean value: The average height of the players is in the range of 195-205cm, which is quite high compared to the average height of adults.
 -Standard deviation: The standard deviation of the data is not too large, indicating that the height of the players is quite even. However, there are still some players with heights that are superior or shorter than the average.
-
-![](images/chart3a.png)
